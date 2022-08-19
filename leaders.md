@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Roberto Mendoza](mailto:roberto.mendoza@owasp.org)
+* [Jorge Galvez](mailto:jorge.galvez@owasp.org)
