@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP San Salvador
-tags: eventos-tag
+tags: example-tag
 region: Central America
 meetup-group:
 ---
