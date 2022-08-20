@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP San Salvador
-tags: example-tag eventos-tag
+tags: example-tag
 region: Central America
 meetup-group:
 
@@ -12,7 +12,7 @@ tags: eventos-tag
 region: Central America
 meetup-group:
 ---
-<center><img src="\assets\images\imgOWASPSS.png"></center><br>
+<center><img src="/assets/images/imgOWASPSS.png"></center><br>
 <div style='color:black;text-align:justify;'>
 
 Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
