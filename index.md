@@ -2,14 +2,14 @@
 
 layout: col-sidebar
 title: OWASP San Salvador
-tags: example-tag
+tags: seguridad-informatica
 region: Central America
 meetup-group:
 
 ---
 
 <div style='color:black;text-align:justify;'>
-
+<center><img src="/assets/images/imgOWASPSS.png"></center>
 Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 
 <ul>
@@ -37,10 +37,10 @@ Y lo realizamos a traves de actividades virtuales y fisicas como:
 
 </div>
 
-## Welcome
-Include some information here about your chapter
+## Bienvenidos a OWASP Capitulo San Salvador
+Queremos contribuir para generar una concientizacion y conocimiento de las infinitas vulnerabilidades informaticas que existen y surgen. Por lo cual si estas interesados en unirte y compartir tu conocimientos sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
 
-## Participation
+## Participacion
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
