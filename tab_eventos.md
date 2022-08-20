@@ -3,7 +3,7 @@ title: Eventos
 layout:  null
 tab: true
 order: 2
-tags: Eventos-tag
+tags: eventos-tag
 ---
 
 ## Eventos
