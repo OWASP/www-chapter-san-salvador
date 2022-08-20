@@ -8,20 +8,31 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:black;text-align:justify;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 
 <ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+<li>Seguridad Informatica: Fisica y Logica</li>
+<li>Auditoria IT y de Sistemas</li>
+<li>Evaluaciones Basado en Riesgos</li>
+<li>Hacking Etico</li>
+<li>Aseguramiento de datos y la información</li>
+<li>Forensia Informatica</li>
+</ul>
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+Y lo realizamos a traves de actividades virtuales y fisicas como:
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
+<ul>
+<li>Charlas Informativas</li>
+<li>Capacitaciones</li>
+<li>Casos de Estudios</li>
+<li>Talleres Tecnicos</li>
+<li>Guias Practicas</li>
+<li>Documentos</li>
+<li>Conferencias</li>
+<li>Proyectos de Estudios e Investigacion</li>
+<li>Observatorio de Estadisticas Globales y Locales</li>
 </ul>
 
 </div>
