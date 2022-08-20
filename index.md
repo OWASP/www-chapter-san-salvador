@@ -1,17 +1,11 @@
 ---
-
-layout: col-sidebar
-title: OWASP San Salvador
-tags: example-tag
-region: Central America
-meetup-group:
-
 layout: col-sidebar
 title: OWASP San Salvador
 tags: eventos-tag
 region: Central America
 meetup-group:
 ---
+
 <center><img src="/assets/images/imgOWASPSS.png"></center><br>
 <div style='color:black;text-align:justify;'>
 
