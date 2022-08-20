@@ -8,3 +8,4 @@ tags: eventos-tag
 
 ## Eventos
 Eventos por realizar
+<img src='assets/images/emailfooter.png' style='text-align:center;'><br>
