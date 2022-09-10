@@ -46,13 +46,19 @@ Y lo realizamos a traves de actividades virtuales y fisicas como:
 </p>
 
 ## Participacion
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+El Proyecto de Seguridad de Aplicaciones Web Abiertas (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. 
+Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos a cualquier persona interesada en mejorar la seguridad de las aplicaciones.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Los capítulos están dirigidos por líderes locales de acuerdo con la Política de Capítulos[Chapters Policy](/www-policy/operational/chapters).
+Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/projects/), Capítulos Locales [Local Chapters](/chapters/), Eventos [Events](/events/), Grupos en Línea [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'} y el Canal Slack de la Comunidad [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
+Fomentamos especialmente la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender sobre seguridad de aplicaciones, 
+redes e incluso para construir su reputación como experto.
+También lo alentamos a convertirse en miembro [become a member](/membership/) o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+
+<!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
