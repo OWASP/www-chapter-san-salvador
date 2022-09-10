@@ -1,14 +1,14 @@
 ---
 layout: col-sidebar
 title: OWASP San Salvador
-tags: 'owasp-tag , eventos-tag, noticias-tag'
+tags: 'o-tag , eventos-tag, noticias-tag'
 country: El Salvador
 region: Central America
 meetup-group:
 ---
+## Bienvenidos a OWASP Capitulo San Salvador
 
 <div>
-
 <img src='assets/images/LogoSS.png' style='float:left;margin:25px;'/>
 <p style='color:black;text-align:justify;'>
 Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP
@@ -41,7 +41,6 @@ Y lo realizamos a traves de actividades virtuales y fisicas como:
 </p>
 </div>
 
-## Bienvenidos a OWASP Capitulo San Salvador
 <p style='color:black;text-align:justify;'>Queremos contribuir para generar una concientizacion y conocimiento de las infinitas 
 vulnerabilidades informaticas que existen y surgen. Por lo cual si estas interesados en unirte y compartir tu conocimientos 
 sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
@@ -53,13 +52,16 @@ trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herram
 a cualquier persona interesada en mejorar la seguridad de las aplicaciones.</p>
 
 Los capítulos están dirigidos por líderes locales de acuerdo con la Política de Capítulos. Consultar acá: [Chapters Policy](/www-policy/operational/chapters).
-Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
-<br> Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/projects/), Capítulos Locales [Local Chapters](/chapters/), Eventos [Events](/events/), Grupos en Línea [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'} y el Canal Slack de la Comunidad [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
+<br>
+Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/projects/), Capítulos Locales [Local Chapters](/chapters/), Eventos [Events](/events/), Grupos en Línea [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'} y el Canal Slack de la Comunidad [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
 Fomentamos especialmente la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender sobre seguridad de aplicaciones, 
 redes e incluso para construir su reputación como experto. 
 
-<br>También lo alentamos a convertirse en miembro [become a member](/membership/) o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
+<br>
+También lo alentamos a convertirse en miembro [become a member](/membership/) 
+o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
+Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
