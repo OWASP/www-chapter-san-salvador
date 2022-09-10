@@ -9,8 +9,7 @@ meetup-group:
 
 
 <div style='color:black;text-align:justify;'>
-<img src='assets/images/LogoSS.png' style='text-align:center;'> <br>
-Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
+<img src='assets/images/LogoSS.png' style='text-align:left;'>Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 
 <ul>
 <li>Seguridad Informatica: Fisica y Logica</li>
