@@ -16,7 +16,7 @@ que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades
 computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 
 <!--<br style='clear:left;'>-->
-<ul>
+<ul style='margin-left:25px;'>
 <li>Seguridad Informatica: Fisica y Logica</li>
 <li>Auditoria IT y de Sistemas</li>
 <li>Evaluaciones Basado en Riesgos</li>
