@@ -15,7 +15,7 @@ Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas
 que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones
 computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 
-<br style='clear:left;'>
+<!--<br style='clear:left;'>-->
 <ul>
 <li>Seguridad Informatica: Fisica y Logica</li>
 <li>Auditoria IT y de Sistemas</li>
