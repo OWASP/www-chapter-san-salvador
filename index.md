@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP San Salvador
-tags: 'example-tag , eventos-tag, noticias-tag'
+tags: 'owasp-tag , eventos-tag, noticias-tag'
 country: El Salvador
 region: Central America
 meetup-group:
@@ -52,13 +52,14 @@ sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
 trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos
 a cualquier persona interesada en mejorar la seguridad de las aplicaciones.</p>
 
-Los capítulos están dirigidos por líderes locales de acuerdo con la Política de Capítulos[Chapters Policy](/www-policy/operational/chapters).
+Los capítulos están dirigidos por líderes locales de acuerdo con la Política de Capítulos. Consultar acá: [Chapters Policy](/www-policy/operational/chapters).
 Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
-Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/projects/), Capítulos Locales [Local Chapters](/chapters/), Eventos [Events](/events/), Grupos en Línea [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'} y el Canal Slack de la Comunidad [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
+<br> Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/projects/), Capítulos Locales [Local Chapters](/chapters/), Eventos [Events](/events/), Grupos en Línea [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'} y el Canal Slack de la Comunidad [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}.
 Fomentamos especialmente la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender sobre seguridad de aplicaciones, 
-redes e incluso para construir su reputación como experto.
-También lo alentamos a convertirse en miembro [become a member](/membership/) o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
+redes e incluso para construir su reputación como experto. 
+
+<br>También lo alentamos a convertirse en miembro [become a member](/membership/) o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
 
 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
