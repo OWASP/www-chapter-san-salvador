@@ -50,7 +50,7 @@ sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
 ## Participacion
 <p style='color:black;text-align:justify;'>El Proyecto de Seguridad de Aplicaciones Web Abiertas (OWASP) es una fundación sin fines de lucro que 
 trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos
-a cualquier persona interesada en mejorar la seguridad de las aplicaciones.
+a cualquier persona interesada en mejorar la seguridad de las aplicaciones.</p>
 
 Los capítulos están dirigidos por líderes locales de acuerdo con la Política de Capítulos[Chapters Policy](/www-policy/operational/chapters).
 Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
@@ -59,7 +59,7 @@ Todos son bienvenidos y animados a participar en nuestros Proyectos [Projects](/
 Fomentamos especialmente la diversidad en todas nuestras iniciativas. OWASP es un lugar fantástico para aprender sobre seguridad de aplicaciones, 
 redes e incluso para construir su reputación como experto.
 También lo alentamos a convertirse en miembro [become a member](/membership/) o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en curso.
-</p>
+
 
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
 ---------------------
