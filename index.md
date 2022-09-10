@@ -8,12 +8,12 @@ meetup-group:
 ---
 
 <div>
-<p text-align='justify'>
-<img src='assets/images/LogoSS.png' alt='Capitulo San Salvador OWASP' align='left'/>
+<p style='text-align:justify;'>
+<img src='assets/images/LogoSS.png' alt='Capitulo San Salvador OWASP' style='align:left;'/>
 Este capitulo de San Salvador tiene como objetivo divulgar y promover las buenas prácticas vertidas en el framework OWASP que permitan reconocer, depurar, tratar, mitigar y prevenir las vulnerabilidades tecnicas que se generan en el desarrollo de soluciones computacionales como software, sistemas o aplicaciónes. Por lo tanto buscamos compartir conocimientos y experiencias sobre areas como:
 </p>
 
-<ul text-align='center'>
+<ul style='clear:right'>
 <li>Seguridad Informatica: Fisica y Logica</li>
 <li>Auditoria IT y de Sistemas</li>
 <li>Evaluaciones Basado en Riesgos</li>
