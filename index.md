@@ -6,7 +6,7 @@ country: El Salvador
 region: Central America
 meetup-group:
 ---
-## Bienvenidos a OWASP Capitulo San Salvador
+## Bienvenidos a OWASP Capitulo San Salvador By Roberto Mendoza 
 
 <div>
 <img src='assets/images/LogoSS.png' style='float:left;margin:25px;'/>
