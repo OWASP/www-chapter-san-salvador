@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP San Salvador
-tags: 'owasp-tag , eventos-tag, noticias-tag'
+tags: 'owasp-tag , eventos-tag, noticias-tag, patrocinadores-tag'
 country: El Salvador
 region: Central America
 meetup-group:
