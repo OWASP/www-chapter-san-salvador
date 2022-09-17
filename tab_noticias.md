@@ -7,5 +7,10 @@ tags: noticias-tag
 ---
 
 ## Noticias
-<h2>Las noticias destacadas</h2>
+<div>
+<img src='assets/images/under01.jpg' style='float:left;margin:25px;'/>
+<p style='color:black;text-align:justify;'>
+<h1>En espera de informacion</h1>
+</p>
+</div>
 
