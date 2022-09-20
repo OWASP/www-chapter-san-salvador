@@ -3,6 +3,7 @@ layout: col-sidebar
 title: OWASP San Salvador
 tags: 'owasp-tag , eventos-tag, noticias-tag, patrocinadores-tag'
 country: El Salvador
+city: San Salvador
 region: Central America
 meetup-group:
 ---
@@ -67,7 +68,5 @@ Las contribuciones financieras solo deben realizarse en línea utilizando el bot
 <!--Next Meeting/Event  You should keep this section as it will populate your meetup events 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-
-
-
+---------------------
 -->
