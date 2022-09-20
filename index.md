@@ -64,7 +64,7 @@ o considerar una donación [donation](/donate/) para apoyar nuestro trabajo en c
 Las contribuciones financieras solo deben realizarse en línea utilizando el botón de donación en línea autorizado.
 
 
-<!--Next Meeting/Event  You should keep this section as it will populate your meetup events -->
+<!--Next Meeting/Event  You should keep this section as it will populate your meetup events 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
