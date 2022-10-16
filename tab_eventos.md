@@ -20,7 +20,7 @@ tags: eventos-tag
 <style type="text/css">
   .slider-container {
   display: flex;
-  width: 50%;
+  width: 100%;
   height: 50vh;
   overflow-x: scroll;  
   scroll-snap-type: x mandatory;
@@ -37,14 +37,22 @@ tags: eventos-tag
 <div class="slider-container">  
   <img
     class="slider-item"
-    src='assets/images/under01.jpg'
+    src='assets/images/01charla01.jpg'
   />
   <img
     class="slider-item"
-    src='assets/images/under02.gif'
+    src='assets/images/01charla02.gif'
   />
   <img
     class="slider-item"
-    src='assets/images/under01.jpg'
+    src='assets/images/01charla03.jpg'
+	/>
+	<img
+    class="slider-item"
+    src='assets/images/01charla04.jpg'
+	/>
+	<img
+    class="slider-item"
+    src='assets/images/01charla05.jpg'
 	/>
 </div>  
