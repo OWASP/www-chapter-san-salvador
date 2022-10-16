@@ -41,7 +41,7 @@ tags: eventos-tag
   />
   <img
     class="slider-item"
-    src='assets/images/under02.jpg'
+    src='assets/images/under02.gif'
   />
   <img
     class="slider-item"
