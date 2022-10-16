@@ -22,17 +22,14 @@ tags: eventos-tag
   display: flex;
   width: 50%;
   height: 50vh;
-  overflow-x: scroll
-
-  
+  overflow-x: scroll;  
   scroll-snap-type: x mandatory;
 }
 
 .slider-container img {
-  flex: 0 0 50%;
-  width: 50%;
+  flex: 0 0 100%;
+  width: 100%;
   object-fit: cover;
-
   scroll-snap-align: center;
 }
 </style>
