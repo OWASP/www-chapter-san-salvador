@@ -17,20 +17,27 @@ tags: eventos-tag
 </p>
 </div>-->
 
-
-<h1>OWASP Conociendo los Activos Digitales</h1>
-<div class="slider-container" style='.slider-container {
+<style type="text/css">
+  .slider-container {
   display: flex;
-  width: 100%;
-  height: 100vh;
-  overflow-x: scroll;
+  width: 50%;
+  height: 50vh;
+  overflow-x: scroll
+
+  
   scroll-snap-type: x mandatory;
-};.slider-container img {
-  flex: 0 0 100%;
-  width: 100%;
+}
+
+.slider-container img {
+  flex: 0 0 50%;
+  width: 50%;
   object-fit: cover;
+
   scroll-snap-align: center;
-}'>  
+}
+</style>
+<h1>OWASP Conociendo los Activos Digitales</h1>
+<div class="slider-container">  
   <img
     class="slider-item"
     src='assets/images/under01.jpg'
