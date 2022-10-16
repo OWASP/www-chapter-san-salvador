@@ -41,7 +41,7 @@ tags: eventos-tag
   />
   <img
     class="slider-item"
-    src='assets/images/01charla02.gif'
+    src='assets/images/01charla02.jpg'
   />
   <img
     class="slider-item"
