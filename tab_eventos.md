@@ -10,9 +10,37 @@ tags: eventos-tag
 <!--Eventos por realizar
 <img src='assets/images/emailfooter.png' style='text-align:center;'><br>
 -->
-<div>
+<!--<div>
 <img src='assets/images/under01.jpg' style='float:left;margin:25px;max-width:30%;max-height:30%;'/>
 <p style='color:black;text-align:justify;'>
 <h1>En espera de informacion</h1>
 </p>
-</div>
+</div>-->
+
+
+<h1>OWASP Conociendo los Activos Digitales</h1>
+<div class="slider-container" style='.slider-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+};.slider-container img {
+  flex: 0 0 100%;
+  width: 100%;
+  object-fit: cover;
+  scroll-snap-align: center;
+}'>  
+  <img
+    class="slider-item"
+    src='assets/images/under01.jpg'
+  />
+  <img
+    class="slider-item"
+    src='assets/images/under02.jpg'
+  />
+  <img
+    class="slider-item"
+    src='assets/images/under01.jpg'
+	/>
+</div>  
