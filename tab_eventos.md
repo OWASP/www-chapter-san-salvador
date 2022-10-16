@@ -21,7 +21,7 @@ tags: eventos-tag
   .slider-container {
   display: flex;
   width: 100%;
-  height: 50vh;
+  height: 100vh;
   overflow-x: scroll;  
   scroll-snap-type: x mandatory;
 }
