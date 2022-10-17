@@ -55,18 +55,24 @@ tags: eventos-tag
     class="slider-item"
     src='assets/images/01charla05.jpg'
 	/>
+	
 </div> -->
 <style>
             .slide {
-                position: relative;
+				display: flex;
+				width: 100%;
+				height: 100vh;
                 box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
-                margin-top: 26px;
+                margin-top: 5px;
+				max-width:50%;
+				max-height:50%;	
             }
             .slide-inner {
-                position: relative;
-                overflow: hidden;
-                width: 100%;
-                height: calc( 300px + 3em);
+                flex: 0 0 100%;
+				width: 100%;
+				object-fit: cover;
+				position: relative;
+                overflow: hidden;                
             }
             .slide-open:checked + .slide-item {
                 position: static;
@@ -82,6 +88,7 @@ tags: eventos-tag
                 display: block;
                 height: auto;
                 max-width: 100%;
+				text-align:center;
             }
             .slide-control {
                 background: rgba(0, 0, 0, 0.28);
