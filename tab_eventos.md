@@ -62,7 +62,7 @@ tags: eventos-tag
 				float:left;
 				display: flex;
 				width: 100%;
-				height: 100vh;
+				height: 50vh;
                 box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
                 margin-top: 5px;
 				max-width:40%;
@@ -70,6 +70,7 @@ tags: eventos-tag
             }
             .slide-inner {
                 flex: 0 0 100%;
+				height: auto;
 				width: 100%;
 				object-fit: cover;
 				position: relative;
@@ -181,7 +182,7 @@ tags: eventos-tag
             }
 			
 </style>
-
+<h1>Desafios de los Activos Virtuales 15 Octubre de 2022</h1>
 <div class="slide">
     <div class="slide-inner">
          <input class="slide-open" type="radio" id="slide-1" 
