@@ -244,5 +244,16 @@ tags: eventos-tag
                         <label for="slide-5" class="slide-circulo">•</label>
                     </li>
                 </ol>
-    </div>
-</div>  
+    </div>	
+</div>
+<p style='color:black;text-align:justify;'>
+En esta charla se presento la importancia sobre el conocimiento de los activos virtuales y la incorporacion de estos a la economía mundial. Asi como el enfoque sobre lo riesgos a los cuales se ven expuestos, como:
+<ul>
+<li>Generación y tenencia Anónima</li>
+<li>Monedas virtuales con respaldo desconocido</li>
+<li>Intercambio en redes grises (VPN)</li>
+<li>Capacidad transaccional (Velocidad y volumenes)</li>
+<li>Intercambios sin fronteras(Global)</li>
+</ul>
+Se abordo tambien su uso por el ciberdelito como lo son los ataques de DDOS y el Ransomware, asi como su uso en la Darknet para pago de servicios y productos. Y finalizamos hablando de las herramientas asociados al blockchain de algunos activos virtuales y presentamos estadísticas de interes.
+</p>  
