@@ -261,4 +261,7 @@ Se abordó también su uso por el ciberdelito como lo son los ataques de DDOS y 
 </p>
 <p style='color:black;text-align:justify;'>
 Y finalizamos compartiendo sobre las herramientas asociados al blockchain de algunos activos virtuales y se presentaron estadísticas de interés.
+</p>
+<p style='color:black;text-align:justify;'>
+Queremos agradecer a las autoridades de la Universidad Dr. Andrés Bello (UNAB) Regional San Salvador por las facilidades prestadas para la realización de dicho evento. Y una mención especial a la Universidad Gerardo Barrios (UGB) de San Miguel por su apoyo con la misma charla pero en modalidad virtual.
 </p>  
