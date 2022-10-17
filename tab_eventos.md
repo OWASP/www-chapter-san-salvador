@@ -183,7 +183,7 @@ tags: eventos-tag
             }
 			
 </style>
-<h1 style='color:black;text-align:justify;'>Desafios de los Activos Virtuales .:: 15 Octubre de 2022 ::.</h1>
+<h1 style='color:black;text-align:justify;'>Desafios de los Activos Virtuales .:: 05 Octubre de 2022 ::.</h1>
 <div class="slide">
     <div class="slide-inner">
          <input class="slide-open" type="radio" id="slide-1" 
@@ -248,14 +248,17 @@ tags: eventos-tag
     </div>	
 </div>
 <p style='color:black;text-align:justify;'>
-En esta charla se presento la importancia sobre el conocimiento de los activos virtuales y la incorporacion de estos a la economía mundial. Asi como el enfoque sobre lo riesgos a los cuales se ven expuestos, como:</p>
+En esta charla se presentó la importancia sobre el conocimiento de los activos virtuales y la incorporación de estos a la economía mundial. Así como el enfoque sobre los riesgos a los cuales se ven expuestos, como:</p>
+<br>
 <ul>
-<li>Generación y tenencia Anónima</li>
-<li>Monedas virtuales con respaldo desconocido</li>
-<li>Intercambio en redes grises (VPN)</li>
-<li>Capacidad transaccional (Velocidad y volumenes)</li>
-<li>Intercambios sin fronteras(Global)</li>
+<li>Generación y tenencia Anónima </li>
+<li>Monedas virtuales con respaldo desconocido </li>
+<li>Intercambio en redes grises (uso de VPN) </li>
+<li>Capacidad transaccional (Velocidad y volúmenes) </li>
+<li>Intercambios sin fronteras(Global) </li>
 </ul>
+<br>
 <p style='color:black;text-align:justify;'>
-Se abordo tambien su uso por el ciberdelito como lo son los ataques de DDOS y el Ransomware, asi como su uso en la Darknet para pago de servicios y productos. Y finalizamos hablando de las herramientas asociados al blockchain de algunos activos virtuales y presentamos estadísticas de interes.
+Se abordó también su uso por el ciberdelito como lo son los ataques de DDOS y el Ransomware, así como su uso en la Darknet para pago de servicios y productos. <br>
+Y finalizamos hablando de las herramientas asociados al blockchain de algunos activos virtuales y presentamos estadísticas de interés.
 </p>  
