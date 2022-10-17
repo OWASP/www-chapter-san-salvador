@@ -59,13 +59,14 @@ tags: eventos-tag
 </div> -->
 <style>
             .slide {
+				float:left;
 				display: flex;
 				width: 100%;
 				height: 100vh;
                 box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
                 margin-top: 5px;
-				max-width:50%;
-				max-height:50%;	
+				max-width:40%;
+				max-height:30%;	
             }
             .slide-inner {
                 flex: 0 0 100%;
