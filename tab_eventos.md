@@ -115,8 +115,8 @@ tags: eventos-tag
             #slide-1:checked ~ .control-1,
             #slide-2:checked ~ .control-2,
             #slide-3:checked ~ .control-3,
-			#slide-3:checked ~ .control-4,
-			#slide-3:checked ~ .control-5
+			#slide-4:checked ~ .control-4,
+			#slide-5:checked ~ .control-5
 			{
                 display: block;
             }
@@ -144,6 +144,7 @@ tags: eventos-tag
             .slide-circulo:hover {
                 color: #aaaaaa;
             }
+			
             #slide-1:checked ~ .control-1 ~ .slide-indicador 
                  li:nth-child(1) .slide-circulo,
             #slide-2:checked ~ .control-2 ~ .slide-indicador 
