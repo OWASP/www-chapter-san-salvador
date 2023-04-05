@@ -48,7 +48,7 @@ sobre el mundo de la seguridad en el ambito tecnologico eres bienvenido.
 </p>
 
 ## Participacion
-<p style='color:black;text-align:justify;'>El Proyecto de Seguridad de Aplicaciones Web Abiertas (OWASP) es una fundación sin fines de lucro que 
+<p style='color:black;text-align:justify;'>El Proyecto de Seguridad Mundial de Aplicaciones Abiertas (OWASP) es una fundación sin fines de lucro que 
 trabaja para mejorar la seguridad del software. Todos nuestros proyectos, herramientas, documentos, foros y capítulos son gratuitos y están abiertos
 a cualquier persona interesada en mejorar la seguridad de las aplicaciones.</p>
 
