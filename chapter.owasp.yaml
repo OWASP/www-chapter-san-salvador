@@ -1,0 +1,25 @@
+leaders:
+  - name: Roberto Mendoza
+    email: robertoedmundo.mendoza@owasp.org
+  - name: Jorge Galvez
+    email: jorge.galvez@owasp.org
+  - name: Edwin Henriquez
+    email: edwin.henriquez@owasp.org
+location:
+  country: El Salvador
+  country_code: SV
+  region: San Salvador
+  city: San Salvador
+  latitude: 13.6989939
+  longitude: -89.1914249
+name: OWASP San Salvador
+repositories:
+  - name: www-chapter-san-salvador
+    url: https://github.com/OWASP/www-chapter-san-salvador
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-tag
+  - eventos-tag
+  - noticias-tag
+  - patrocinadores-tag
+website: https://owasp.org/www-chapter-san-salvador
